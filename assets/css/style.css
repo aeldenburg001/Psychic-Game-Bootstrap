@@ -35,17 +35,6 @@ h2, h3 {
     font-size: 22px;
 }
 
-footer {
-    background: #751c19;
-    color: #fff;
-    padding: 30px 0;
-    clear: both;
-    border-top: 8px solid #1e4d99;
-    color: #ccc;
-    font-size: 12px;
-    text-align: center;
-}
-
 html, body {
     height: 100%;
     margin: 0;
