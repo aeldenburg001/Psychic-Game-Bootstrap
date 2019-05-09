@@ -7,15 +7,16 @@ body {
     line-height: 24px;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: #751c19;
+    background: url(https://images.pexels.com/photos/1587/blurred-background.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
 }
 
 img {
-    width: 300px;
-    height: auto;
+    width: 200px;
+    height: 200px;
 }
 
 h1, h2, h3, p {
-    margin-bottom: 0;
+    margin-bottom: 10;
 }
 
 h1, h2, h3 {
@@ -37,5 +38,17 @@ h2, h3 {
 
 html, body {
     height: 100%;
-    margin: 0;
+    margin: 10;
+    padding: 5px;
+}
+
+footer {
+    text-align: center;
+    background: #ddd;
+}
+
+.container {
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
 }
